@@ -1,1 +1,7 @@
-{}
+{
+  "vimMode": true,
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
+}
