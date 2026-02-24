@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "W4 Federal tax 2024"
             }
+          },
+          {
+            "id": "c58917e3de010c66",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc7df05a2fd999b7",
+  "active": "c58917e3de010c66",
   "lastOpenFiles": [
     "Archive/Documents/Thaddeus Harris COOP OFFER LETTER copy.pdf",
     "Archive/Documents/SelfIdent.pdf",
