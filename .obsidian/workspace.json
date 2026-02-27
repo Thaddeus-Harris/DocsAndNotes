@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "56bf882a4f863ffe",
+    "id": "676c33a8f706433a",
     "type": "split",
     "children": [
       {
-        "id": "8a7bc7ef5daaeee0",
+        "id": "16a0fa6ee193b1e0",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7df05a2fd999b7",
+            "id": "8a0da77baaf88fde",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Archive/Documents/W4 Federal tax 2024.pdf"
+                "file": "Projects/GroupTheory/Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "W4 Federal tax 2024"
-            }
-          },
-          {
-            "id": "c58917e3de010c66",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "465906f585fcf13e",
+    "id": "8163ff8c9d015ef4",
     "type": "split",
     "children": [
       {
-        "id": "8587e7153aa8ec41",
+        "id": "543785a7135b6310",
         "type": "tabs",
         "children": [
           {
-            "id": "458d5cde8ea59a6e",
+            "id": "6a5380ec3d5ab2e3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +46,7 @@
             }
           },
           {
-            "id": "9013de10ccee0300",
+            "id": "1d15b321056f42cf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +63,7 @@
             }
           },
           {
-            "id": "4730db702164aef3",
+            "id": "b4a3b0429f184386",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,20 +79,19 @@
     "width": 300
   },
   "right": {
-    "id": "414c7947a8cebf14",
+    "id": "50206d0103169359",
     "type": "split",
     "children": [
       {
-        "id": "2a87aa5fb8c96051",
+        "id": "e8bb0cc4ef748bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "a1a043f987735002",
+            "id": "7977fcd8b06296b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Documents/W4 Federal tax 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +101,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for W4 Federal tax 2024"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c780f25a94784fce",
+            "id": "e40f372424104865",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Documents/W4 Federal tax 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from W4 Federal tax 2024"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f84c04a5140c3cde",
+            "id": "158d08c5339ee5ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,7 +133,7 @@
             }
           },
           {
-            "id": "9760d4874836adb0",
+            "id": "36ce0afe06a88a65",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,18 +147,17 @@
             }
           },
           {
-            "id": "0ae6ea946913c251",
+            "id": "dbbd7b0c10321b4d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Documents/W4 Federal tax 2024.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of W4 Federal tax 2024"
+              "title": "Outline"
             }
           }
         ]
@@ -194,16 +178,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "c58917e3de010c66",
-  "lastOpenFiles": [
-    "Archive/Documents/Thaddeus Harris COOP OFFER LETTER copy.pdf",
-    "Archive/Documents/SelfIdent.pdf",
-    "Archive/Documents/mandatorydefcomp.pdf",
-    "Archive/Documents/m4.pdf",
-    "Archive/Documents/i-9-paper-version.pdf",
-    "Archive/Documents/Ethics Summary for 2020-2021 rev 1 8 21.pdf",
-    "Archive/Documents/Employee Emergency Contact List.pdf",
-    "Archive/Documents/DD.pdf",
-    "Archive/Documents/coop-resume-TYH.pdf"
-  ]
+  "active": "8a0da77baaf88fde",
+  "lastOpenFiles": []
 }

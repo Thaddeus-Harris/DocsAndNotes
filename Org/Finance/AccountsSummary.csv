@@ -1,0 +1,34 @@
+Include external accounts,TRUE,,,,
+,,,,,
+,Value,Change ($),Change (%),,
+Assets,37138.26,,,,
+Liabilities,174.79,,,,
+Total investments,1003.61,--,--,,
+Total cash,37138.26,,,,
+,,,,,
+Account type,Percent,Value,,,
+Bank accounts,97.30,36134.65,,,
+Checking,5.90,2190.33,,,
+Savings,39.90,14819.97,,,
+Other banking,51.50,19124.35,,,
+,,,,,
+Investment accounts,2.70,1003.61,,,
+Fixed income & cash,2.70,1003.61,,,
+,,,,,
+Credit accounts,,174.79,,,
+Credit cards,,174.79,,,
+,,,,,
+,,,,,
+Investment accounts,Account number,Type,Day change,Change (%),Value
+THADDEUS Y HARRIS ROTH IRA,...6009,Asset,0.00,0.00,1003.61
+THADDEUS Y HARRIS,...0000,Asset,0.00,0.00,0.00
+Total,,,0.00,,1003.61
+,,,,,
+Bank accounts,Account number,Type,Day change,Present balance,Available balance
+Thad Checking,...3814,Checking,-1291.29,3481.62,2190.33
+Thad Savings,...2792,Savings,0.00,1537.98,1537.98
+Total,,,,5019.60,3728.31
+,,,,,
+Credit cards,Account number,Type,Outstanding,,
+Freedom Rise,...9259,Credit Card,174.79,,
+Total,,,174.79,,
