@@ -1,0 +1,26 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "book_notes": 1,
+    "economics": 2,
+    "math": 3,
+    "projects": 4,
+    "economics/in_kind": 1,
+    "math/algebra": 1,
+    "math/definitions": 2,
+    "math/theorems": 3,
+    "projects/drp": 1,
+    "math/algebra/group_theory": 1
+  },
+  "tagColors": {},
+  "_version": 4
+}

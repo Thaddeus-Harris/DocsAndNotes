@@ -4,85 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fc4dec99f38149cf",
+        "id": "077d7261f3b991a3",
         "type": "tabs",
         "children": [
           {
-            "id": "075a25cf5992731d",
+            "id": "335c636f82cac5d5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Projects/GroupTheory/Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive.pdf"
+                "file": "Projects/Real_Analysis/Elementary Analysis_ The Theory of Calculus (Undergraduate -- by Kenneth A_ Ross -- Undergraduate Texts in Mathematics, Undergraduate Texts in -- 9781461462705 -- d3daf5196695dfefe6d7e2ed5f0711dc -- Anna’s Archive.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive"
+              "title": "Elementary Analysis_ The Theory of Calculus (Undergraduate -- by Kenneth A_ Ross -- Undergraduate Texts in Mathematics, Undergraduate Texts in -- 9781461462705 -- d3daf5196695dfefe6d7e2ed5f0711dc -- Anna’s Archive"
             }
           }
         ]
-      },
-      {
-        "id": "331e7f0855a72d38",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "615675e9b32bd2f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Groups"
-            }
-          },
-          {
-            "id": "30afe62e9dfd60cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Injective.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Injective"
-            }
-          },
-          {
-            "id": "9732078a14d9d447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Surjective.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Surjective"
-            }
-          },
-          {
-            "id": "5498a8640cb14c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bijection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bijection"
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,6 +31,7 @@
       {
         "id": "8587e7153aa8ec41",
         "type": "tabs",
+        "dimension": 67.24770642201835,
         "children": [
           {
             "id": "458d5cde8ea59a6e",
@@ -135,7 +73,63 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "91f5b7a528c6e274",
+        "type": "tabs",
+        "dimension": 32.75229357798165,
+        "children": [
+          {
+            "id": "ce237a4595576488",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "495d743d234da0d0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Projects/Real_Analysis/Elementary Analysis_ The Theory of Calculus (Undergraduate -- by Kenneth A_ Ross -- Undergraduate Texts in Mathematics, Undergraduate Texts in -- 9781461462705 -- d3daf5196695dfefe6d7e2ed5f0711dc -- Anna’s Archive.pdf",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5853652243770598,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Elementary Analysis_ The Theory of Calculus (Undergraduate -- by Kenneth A_ Ross -- Undergraduate Texts in Mathematics, Undergraduate Texts in -- 9781461462705 -- d3daf5196695dfefe6d7e2ed5f0711dc -- Anna’s Archive"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Documents/W4 Federal tax 2024.pdf",
+                "file": "Subgroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for W4 Federal tax 2024"
+              "title": "Backlinks for Subgroup"
             }
           },
           {
@@ -217,55 +211,122 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Documents/W4 Federal tax 2024.pdf",
+                "file": "Subgroup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of W4 Federal tax 2024"
+              "title": "Outline of Subgroup"
+            }
+          },
+          {
+            "id": "9706921d95087493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosets & Equivalence Classes & Quotient Groups.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cosets & Equivalence Classes & Quotient Groups"
+            }
+          },
+          {
+            "id": "93482af0c1b7423c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "12f9932e9b150d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba81e6687a110cd7",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 304.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "5498a8640cb14c32",
+  "active": "335c636f82cac5d5",
   "lastOpenFiles": [
+    "Projects/DRP/DRP-Notes.pdf",
+    "Fundamental Theorem of Finite Abelian Groups.md",
+    "L2.md",
+    "Subgroup.md",
+    "First Isomorphism Theorem.md",
+    "Lagrange Theorem.md",
+    "Cosets & Equivalence Classes & Quotient Groups.md",
+    "homomorphism.md",
+    "group.md",
+    "Untitled.md",
+    "kernel.md",
+    "[[Homomorphisms]].md",
+    "Untitled.base",
+    "character.md",
+    "Untitled 5.md",
+    "dual group.md",
+    "Untitled 4.md",
+    "2026-02-24.md",
+    "Projects/GroupTheory/Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive.pdf",
+    "Org/TODO.md",
+    "Untitled 3.md",
+    "Group.md",
+    "Cartesian Product.md",
+    "Quotient Group.md",
+    "Untitled 2.md",
+    "Projects/DRP/DRP Questions List.md",
+    "Projects/Real_Analysis/Elementary Analysis_ The Theory of Calculus (Undergraduate -- by Kenneth A_ Ross -- Undergraduate Texts in Mathematics, Undergraduate Texts in -- 9781461462705 -- d3daf5196695dfefe6d7e2ed5f0711dc -- Anna’s Archive.pdf",
+    "Projects/StatsAndStoch/An introduction to mathematical statistics and its -- Larsen, Richard J_; Marx, Morris L -- Sixth edition, Boston, 2018 -- Pearson -- 9780134114217 -- 420d390571d118d278ff1fb784453e5b -- Anna’s Archive.pdf",
     "Surjective.md",
     "Bijection.md",
-    "Projects/GroupTheory/Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive.pdf",
-    "Injective.md",
-    "Groups.md",
-    "Projects/DRP/DRP-Notes.pdf",
-    "Untitled.md",
-    "Def 2.3.md",
-    "Projects/Real_Analysis/Elementary Analysis_ The Theory of Calculus (Undergraduate -- by Kenneth A_ Ross -- Undergraduate Texts in Mathematics, Undergraduate Texts in -- 9781461462705 -- d3daf5196695dfefe6d7e2ed5f0711dc -- Anna’s Archive.pdf",
-    "Inclusion.md",
-    "Subgroups.md",
-    "Projects/DRP/DRP Questions List.md",
-    "Production of Commodities By Means of Commodities.md",
-    "Homomorphisms.md",
     "Projects/GroupTheory",
     "Projects/StatsAndStoch",
-    "Projects/StatsAndStoch/An introduction to mathematical statistics and its -- Larsen, Richard J_; Marx, Morris L -- Sixth edition, Boston, 2018 -- Pearson -- 9780134114217 -- 420d390571d118d278ff1fb784453e5b -- Anna’s Archive.pdf",
     "Projects/Real_Analysis",
     "Projects/annas-arch-a5cd985501e9.sdr/metadata.djvu.lua",
-    "Projects/annas-arch-a5cd985501e9.sdr",
-    "Projects/NumTheory/numthy_3_cryptography_v4.50.pdf"
+    "Projects/annas-arch-a5cd985501e9.sdr"
   ]
 }

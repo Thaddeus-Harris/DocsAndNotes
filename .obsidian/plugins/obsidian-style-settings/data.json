@@ -1,0 +1,11 @@
+{
+  "obsidian-joval-theme@@glob-fonts": "fontmod-0",
+  "obsidian-joval-theme@@switch-dcol": "col-mod-a",
+  "obsidian-joval-theme@@switch-lcol": "col-mod-f",
+  "obsidian-joval-theme@@hide-sidepanels": false,
+  "obsidian-joval-theme@@show-status-bar": false,
+  "typomagical-title@@font-title": "Playfair Display",
+  "typomagical-text@@body-ligatures": true,
+  "typomagical-colour@@theme-variant": "obsidian-high-contrast",
+  "pln@@pln-vision": false
+}
