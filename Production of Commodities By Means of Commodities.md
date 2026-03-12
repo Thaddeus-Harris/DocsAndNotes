@@ -23,3 +23,15 @@ Where the sum of the first column is equal to the first line, the sum of the sec
 One commodity is to be taken as the standard of value and all others are pegged to this standard, leaving k-1 unknowns, which is solvable as there are k-1 independent linear equations to determine the prices. 
 
 ## Production With a Surplus
+The equations described in the previous chapter become contradictory w/ the existence of a surplus, $k$ independent equations and $k-1$ unknowns. 
+
+The distribution of surplus and the prices of goods are determined through the same mechanism and at the same time. 
+
+(Sraffa claims the rate of profit is uniform for all industries? Why?)
+- There is an assumption that all industries that the quantity produced is equal to or larger that the quantity used in the production of other goods as the system is assumed to be self replicating.
+- A surplus allows  for goods which are not used in the production of other products, and changes in their price do not effect the overall system. 
+	- If a product enters into the production of all commodities these are called *basic* 
+	- Otherwise they are called *non-basic* 
+	- It is assumed a system contains at least one basic product. 
+	- Wage can be split into subsistence and the non-basic portion made up of surplus. Wages are paid post factum as a share of the annual product, rather than wage being 'advanced' from capital. 
+## Proportions of Labour To Means of Production

@@ -1,7 +1,8 @@
 {
   "vimMode": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "showLineNumber": true,
   "autoPairBrackets": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true
 }

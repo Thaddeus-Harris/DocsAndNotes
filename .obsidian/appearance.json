@@ -1,3 +1,8 @@
 {
-  "cssTheme": "Golden Topaz"
+  "cssTheme": "PLN",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "accentColor": "#b67402",
+  "theme": "obsidian"
 }

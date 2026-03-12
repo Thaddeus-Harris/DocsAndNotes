@@ -1,39 +1,88 @@
 {
   "main": {
-    "id": "676c33a8f706433a",
+    "id": "29ad98b9fd25e781",
     "type": "split",
     "children": [
       {
-        "id": "16a0fa6ee193b1e0",
+        "id": "06e860f6abc5d987",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0da77baaf88fde",
+            "id": "a3a475b7e588b650",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Projects/GroupTheory/Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive.pdf"
+                "file": "Resources/Books/Unknown/An introduction to mathematical statistics and its -- Larsen, Richard J ; Marx, Morris L -- Sixt (15)/An introduction to mathematical statistics - Unknown.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive"
+              "title": "An introduction to mathematical statistics - Unknown"
+            }
+          },
+          {
+            "id": "c43ee0899d085353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production of Commodities By Means of Commodities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Production of Commodities By Means of Commodities"
+            }
+          },
+          {
+            "id": "b804862e5e2ef02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8163ff8c9d015ef4",
+    "id": "168271fa0e9b5ec7",
     "type": "split",
     "children": [
       {
-        "id": "543785a7135b6310",
+        "id": "730c509909c3ad0f",
         "type": "tabs",
         "children": [
           {
-            "id": "6a5380ec3d5ab2e3",
+            "id": "9e2e155dd04079ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +95,7 @@
             }
           },
           {
-            "id": "1d15b321056f42cf",
+            "id": "eda2bc4afcd9ec9d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +112,7 @@
             }
           },
           {
-            "id": "b4a3b0429f184386",
+            "id": "49785d11b0d36d57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,19 +128,20 @@
     "width": 300
   },
   "right": {
-    "id": "50206d0103169359",
+    "id": "fbdfe9dbb8e72ed9",
     "type": "split",
     "children": [
       {
-        "id": "e8bb0cc4ef748bbb",
+        "id": "ef3a7a55eed1fac9",
         "type": "tabs",
         "children": [
           {
-            "id": "7977fcd8b06296b9",
+            "id": "80ea0131b4bc8563",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "homomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,24 +151,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for homomorphism"
             }
           },
           {
-            "id": "e40f372424104865",
+            "id": "2a43dd37457acab0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "homomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from homomorphism"
             }
           },
           {
-            "id": "158d08c5339ee5ca",
+            "id": "792fc59da50c06b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +184,7 @@
             }
           },
           {
-            "id": "36ce0afe06a88a65",
+            "id": "a10b829f9313a5df",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,17 +198,28 @@
             }
           },
           {
-            "id": "dbbd7b0c10321b4d",
+            "id": "3f86326f070f32f0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "homomorphism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of homomorphism"
+            }
+          },
+          {
+            "id": "30fc49330772cc47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -175,9 +237,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8a0da77baaf88fde",
-  "lastOpenFiles": []
+  "active": "b804862e5e2ef02c",
+  "lastOpenFiles": [
+    "Production of Commodities By Means of Commodities.md",
+    "Projects/GroupTheory/Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive.pdf",
+    "conflict-files-obsidian-git.md",
+    "Resources/Books/Unknown/An introduction to mathematical statistics and its -- Larsen, Richard J ; Marx, Morris L -- Sixt (15)/An introduction to mathematical statistics - Unknown.pdf",
+    "Resources/Books/John V. Guttag/Introduction to Computation and Programming Using Python_ With Application to Understanding Data (16)/cover.jpg",
+    "Resources/Books/Jay Cummings/Real analysis _ a long-form mathematics textbook (5)/Real analysis _ a long-form mathematics te - Jay Cummings.pdf",
+    "Resources/Books/Jay Cummings/Real analysis _ a long-form mathematics textbook (5)/cover.jpg",
+    "Resources/Books/Christian Constanda/Solution Techniques for Elementary Partial Differential Equations_ Fourth Edition (12)/cover.jpg",
+    "Resources/Books/Allin F. Cottrell, Paul Cockshott, Gregory John Michaelson, Ian P. Wright, Victor Yakovenko/Classical Econophysics (4)/Classical Econophysics - Allin F. Cottrell, Paul Cockshott, Gregory.pdf",
+    "Resources/Books/Allin F. Cottrell, Paul Cockshott, Gregory John Michaelson, Ian P. Wright, Victor Yakovenko/Classical Econophysics (4)/cover.jpg",
+    "Resources/Notes/To Watch.md",
+    "Resources/Notes/Star Anise.md",
+    "Resources/Notes/Royal Writ.md",
+    "Resources/Notes/Template/Spice Note.md",
+    "Resources/Notes/Template/Project.md",
+    "Resources/Notes/5 Year Plan ; 2025-2030.md",
+    "Resources/Notes/Cardamom.md",
+    "Resources/Notes/Body Measurements.md",
+    "Resources/(Undergraduate texts in mathematics) Sheldon Axler - Linear Algebra Done Right-Springer (1997).pdf",
+    "homomorphism.md",
+    "Group.md",
+    "First Isomorphism Theorem.md",
+    "2026-02-24.md",
+    "Bijection.md",
+    "Cartesian Product.md",
+    "Cosets & Equivalence Classes & Quotient Groups.md"
+  ]
 }

@@ -1,0 +1,41 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "areas": 1,
+    "book_notes": 1,
+    "cooking": 2,
+    "economics": 2,
+    "excalidraw": 3,
+    "food": 4,
+    "math": 3,
+    "project": 5,
+    "projects": 4,
+    "spice-notes": 6,
+    "tea": 7,
+    "areas/civil-engineering": 1,
+    "economics/in_kind": 1,
+    "food/tea": 1,
+    "math/algebra": 1,
+    "math/definitions": 2,
+    "math/theorems": 3,
+    "project/furniture": 1,
+    "project/in-medias-res": 2,
+    "project/keyboard": 3,
+    "project/vault": 4,
+    "projects/drp": 1,
+    "areas/civil-engineering/cive3454": 1,
+    "math/algebra/group_theory": 1,
+    "areas/civil-engineering/cive3454/problem-sets": 1
+  },
+  "tagColors": {},
+  "_version": 4
+}
