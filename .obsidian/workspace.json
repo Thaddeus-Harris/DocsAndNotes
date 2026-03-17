@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Production of Commodities By Means of Commodities.md",
+                "file": "Lift List - 4 Days a week.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,35 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Production of Commodities By Means of Commodities"
-            }
-          },
-          {
-            "id": "b804862e5e2ef02c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Lift List - 4 Days a week"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homomorphism.md",
+                "file": "Lift List - 4 Days a week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for homomorphism"
+              "title": "Backlinks for Lift List - 4 Days a week"
             }
           },
           {
@@ -160,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homomorphism.md",
+                "file": "Lift List - 4 Days a week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from homomorphism"
+              "title": "Outgoing links from Lift List - 4 Days a week"
             }
           },
           {
@@ -222,7 +198,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,13 +219,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b804862e5e2ef02c",
+  "active": "c43ee0899d085353",
   "lastOpenFiles": [
-    "Production of Commodities By Means of Commodities.md",
-    "Projects/GroupTheory/Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive.pdf",
-    "conflict-files-obsidian-git.md",
-    "Resources/Books/Unknown/An introduction to mathematical statistics and its -- Larsen, Richard J ; Marx, Morris L -- Sixt (15)/An introduction to mathematical statistics - Unknown.pdf",
+    "L2.md",
+    "Lagrange Theorem.md",
+    "Inclusion.md",
+    "Lift List - 4 Days a week.md",
+    "Resources/(Undergraduate texts in mathematics) Sheldon Axler - Linear Algebra Done Right-Springer (1997).pdf",
     "Resources/Books/John V. Guttag/Introduction to Computation and Programming Using Python_ With Application to Understanding Data (16)/cover.jpg",
+    "Production_of_Commodities_by_Means_of_Commodities__Prelude_to_a_Critique_of_Economic_Theory.PDF",
+    "Production of Commodities By Means of Commodities.md",
+    "Modern_C.PDF",
+    "Group.md",
+    "Fundamental Theorem of Finite Abelian Groups.md",
+    "First Isomorphism Theorem.md",
+    "fighting-words.pdf",
+    "Bijection.md",
+    "2026-02-24.md",
+    "Cartesian Product.md",
+    "character.md",
+    "Def 2.3.md",
+    "conflict-files-obsidian-git.md",
+    "Projects/GroupTheory/Abstract Algebra_ Third Edition -- David S_ Dummit; Richard M_ Foote, David S_ Dummit, Richard -- 3rd ed_, Hoboken, NJ, New Jersey, 2004 -- Wiley; -- 9780471433347 -- 04c9a91190312bda1928685064338589 -- Anna’s Archive.pdf",
+    "Resources/Books/Unknown/An introduction to mathematical statistics and its -- Larsen, Richard J ; Marx, Morris L -- Sixt (15)/An introduction to mathematical statistics - Unknown.pdf",
     "Resources/Books/Jay Cummings/Real analysis _ a long-form mathematics textbook (5)/Real analysis _ a long-form mathematics te - Jay Cummings.pdf",
     "Resources/Books/Jay Cummings/Real analysis _ a long-form mathematics textbook (5)/cover.jpg",
     "Resources/Books/Christian Constanda/Solution Techniques for Elementary Partial Differential Equations_ Fourth Edition (12)/cover.jpg",
@@ -262,13 +255,7 @@
     "Resources/Notes/5 Year Plan ; 2025-2030.md",
     "Resources/Notes/Cardamom.md",
     "Resources/Notes/Body Measurements.md",
-    "Resources/(Undergraduate texts in mathematics) Sheldon Axler - Linear Algebra Done Right-Springer (1997).pdf",
     "homomorphism.md",
-    "Group.md",
-    "First Isomorphism Theorem.md",
-    "2026-02-24.md",
-    "Bijection.md",
-    "Cartesian Product.md",
     "Cosets & Equivalence Classes & Quotient Groups.md"
   ]
 }
