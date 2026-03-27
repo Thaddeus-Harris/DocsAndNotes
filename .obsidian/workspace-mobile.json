@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lift List - 4 Days a week.md",
+                "file": "Bench Press.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lift List - 4 Days a week"
+              "title": "Bench Press"
             }
           }
         ]
@@ -202,9 +202,10 @@
   },
   "active": "02f46887e9afbd98",
   "lastOpenFiles": [
+    "Lift List - 4 Days a week.md",
+    "Bench Press.md",
     "group.md",
     "Group 2.md",
-    "Lift List - 4 Days a week.md",
     "Leg Raises.md"
   ]
 }
