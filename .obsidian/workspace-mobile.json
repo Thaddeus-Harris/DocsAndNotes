@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Lift List - 4 Days a week"
             }
+          },
+          {
+            "id": "70b299d5c5b7f50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lift List - 4 Days a week.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lift List - 4 Days a week"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +225,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "02f46887e9afbd98",
+  "active": "70b299d5c5b7f50f",
   "lastOpenFiles": [
-    "Cable Crunch.md",
+    "Pullup.md",
     "Lift List - 4 Days a week.md",
+    "Deadlift.md",
+    "If the market cannot be managed by a panel of experts why can the nation?.md",
+    "Cable Crunch.md",
     "Pullover.md",
     "Bench Press.md",
     "group.md",
